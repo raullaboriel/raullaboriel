@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a ERP**
- 
  🌱 I’m currently learning **Tailwind, React Native**
 
 💬 Ask me about **TypeScript, Node.js, React... or anything [here](https://github.com/salesp07/salesp07/issues)**
