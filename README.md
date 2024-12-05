@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://https://github-readme-stats-ecru-delta-46.vercel.app/api?username=raullaboriel&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-ecru-delta-46.vercel.app/api?username=raullaboriel&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
 
