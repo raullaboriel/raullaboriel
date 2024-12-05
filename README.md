@@ -43,7 +43,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=raullaboriel&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-iota-woad-64.vercel.app
+/api?username=raullaboriel&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" alt="readme stats" />
   <br/>
 </div>
 
