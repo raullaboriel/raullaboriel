@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Tailwind, React Native**
+ 🌱 I’m currently learning **Tailwind, NestJS**
 
 💬 Ask me about **TypeScript, Node.js, React... or anything [here](https://github.com/raullaboriel/raullaboriel/issues)**
 
